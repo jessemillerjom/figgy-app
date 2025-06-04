@@ -19,4 +19,4 @@ We do not store or share your camera images. All image processing is done locall
 
 ## Contact
 
-If you have any questions about this Privacy Policy, please contact us at jesse@figgy.app 
+If you have any questions about this Privacy Policy, please contact us at jessemiller.jom@gmail.com 
