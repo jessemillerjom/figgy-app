@@ -1,6 +1,6 @@
 # Figgy Support
 
-![Figgy Logo](https://jessemillerjom.github.io/figgy-privacy-policy/icon.png)
+![Figgy Logo](https://jessemillerjom.github.io/figgy-privacy-policy/favicon.png)
 
 Need help with Figgy? I'm here to assist you! Find answers to common questions, troubleshooting tips, and ways to contact me below.
 
