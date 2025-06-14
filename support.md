@@ -1,7 +1,4 @@
 # Figgy Support
-<div align="center">
-<img src="https://jessemillerjom.github.io/figgy-privacy-policy/adaptive-icon.png" alt="figgy_logo" width="200"/>
-</div>
 
 Need help with Figgy? I'm here to assist you! Find answers to common questions, troubleshooting tips, and ways to contact me below.
 
