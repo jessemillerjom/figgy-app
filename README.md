@@ -55,7 +55,7 @@ Have questions or feedback? We'd love to hear from you!
 
 ## Demo Video
 
-[Watch our demo video to see Figgy in action!](https://youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch our demo video to see Figgy in action!](https://vimeo.com/1093283859?share=copy)
 
 ---
 
