@@ -1,7 +1,7 @@
 # About Figgy
 
 <div align="center">
-<img src="https://jessemillerjom.github.io/figgy-privacy-policy/adaptive-icon.png" alt="figgy_logo" width="200"/>
+<img src="https://jessemillerjom.github.io/figgy-app/adaptive-icon.png" alt="figgy_logo" width="200"/>
 </div>
 
 ## What is Figgy?
